@@ -2,9 +2,7 @@
 
 A Microsoft Excel tool to help financial reviewers calculate Expense Report total currency amounts (default is USD).
 
-## Getting Started
-
-### Simple Key
+## Simple Key
 
 Look for the following Cell Tags for Basic Guidance
 
@@ -16,7 +14,3 @@ Look for the following Cell Tags for Basic Guidance
   - No need for any user input in the adjacent column or row as there is a formula doing background calculations.
 - OPTIONAL FIELD
   - A space in the adjacent column or row for the user to write additonal notes.
-
-### File Preperation
-
-
