@@ -15,4 +15,4 @@ Look for the following Cell Tags for Basic Guidance
 - OPTIONAL FIELD
   - A space in the adjacent column or row for the user to write additonal notes.
 
-expense-report-review-calculator © 2022 by Philip Bachas-Daunert is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
+expense-report-review-calculator © 2022 by Philip Bachas-Daunert is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
